@@ -12,9 +12,9 @@
 
 ### :suspect: Installation
 1. Clone the repository:
-   ```
+```
    git clone https://github.com/your-username/cub3d.git
-   ```
+```
 2. Access the File:
 ```
    cd cub3d
