@@ -25,13 +25,13 @@
   ./cub3D valid.cub
 ```
 ### :finnadie: Usage :
-- To play the game, you may use the following controls:
+To play the game, you may use the following controls:
 
-  W: Move forward
-  S: Move backward
-  A: Move left
-  D: Move right
-  Arrow Keys: Look around
+*  W: Move forward
+*  S: Move backward
+*  A: Move left
+*  D: Move right
+*  Arrow Keys: Look around
 
 ### :rage1: Features:
 
